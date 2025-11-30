@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhindisk&label=Profile%20views&color=0e75b6&style=flat" alt="muhindisk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Smart Inventory and Expiry Management System**
 
 - 🌱 I’m currently learning **Next.js 14 and the App Router for modern React development. Python for data analysis and automation scripts.**
@@ -13,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Deepening my understanding of system design and cloud infrastructure (AWS/Azure).**
 
-- 👨‍💻 All of my projects are available at [https://muhindisk.netlify.app/#](https://muhindisk.netlify.app/#)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-of-one.vercel.app/)
 
 - 💬 Ask me about **Front-end development: React, Python, JavaScript, HTML, CSS. My current project journey and the challenges I'm solving. Recommendations for great programming resources and podcasts!**
 
